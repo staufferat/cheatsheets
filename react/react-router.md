@@ -47,5 +47,5 @@ Here is an example of a navigation. Which navigation you will ever use, you shou
   </HeaderLink>
 </NavBar>
 ```
-In the Navigation we use "Link to" and push a String which is linked to the React Component
+
 
