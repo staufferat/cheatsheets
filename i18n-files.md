@@ -2,6 +2,7 @@
 
 ##Messages
 A messages.js file looks like following:
+
 ```javascript
 /*
  * ShiftMessageForm Messages
