@@ -1,8 +1,8 @@
-#Map
+# Map
 
 This in an example how you can map an array:
 
-```
+```react
 [
   'primary',
   'secondary',
@@ -18,3 +18,4 @@ This in an example how you can map an array:
   </Alert>
 ));
 ```
+

@@ -1,12 +1,13 @@
-#React-Router
+# React-Router
 
-#Imports
+# Imports
+
 ```
 npm i --save react-router-dom
 npm i --save react-router-redux
 ```
 
-##Link to the Components
+## Link to the Components
 
 ```html
 <Switch>
@@ -17,7 +18,7 @@ npm i --save react-router-redux
 </Switch>
 ```
 
-##Create Redux Store with history
+## Create Redux Store with history
 
 ```javascript
 import createHistory from 'history/createBrowserHistory';
@@ -28,15 +29,17 @@ const store = configureStore(initialState, history);
 const MOUNT_NODE = document.getElementById('app');
 ```
 
-##Import the Router in the app.js
-```javascript
+## Import the Router in the app.js
+
+```html
 <ConnectedRouter history={history}>
     <App />
 </ConnectedRouter>
 ```
 
-##Navigation
+## Navigation
 Here is an example of a navigation. Which navigation you will ever use, you should use the strings which are defined in the switch at the beginning.
+
 ```html
 <NavBar>
   <HeaderLink to="/">

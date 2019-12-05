@@ -1,6 +1,6 @@
-#i18n messages
+# i18n messages
 
-##Messages
+## Messages
 A messages.js file looks like following:
 
 ```javascript

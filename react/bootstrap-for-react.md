@@ -1,4 +1,4 @@
-#Bootstrap for React
+# Bootstrap for React
 
 ##Import
 Import with npm
@@ -19,10 +19,10 @@ CDN in to the index.html
 />
 ```
 
-##Components
+## Components
 All Components can be found at https://react-bootstrap.github.io/components/alerts
 
-##Layout
+## Layout
 Details can be found at https://react-bootstrap.github.io/layout/grid/
 
 A short example:
