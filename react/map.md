@@ -1,5 +1,7 @@
 # Map
 
+## Map variants (bootstrap)
+
 This in an example how you can map an array:
 
 ```react
@@ -19,3 +21,8 @@ This in an example how you can map an array:
 ));
 ```
 
+## Map from props
+
+```react
+{  this.props.value.map((projects) => (<div>{projects.name}</div>))}
+```
